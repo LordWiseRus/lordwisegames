@@ -1,4 +1,4 @@
-# lordwisegames
+# LordWise Games
 
 Hello! This is a project to transfer one of my sites from wordpress.
 
